@@ -1,2 +1,2 @@
-# xscapelegend
-The main repository for Xscape Legend
+# xscapelegacy
+The main repository for Xscape Legacy
